@@ -1,3 +1,10 @@
+![Terminal_photos](/assets/images/terminal_1.png)
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
