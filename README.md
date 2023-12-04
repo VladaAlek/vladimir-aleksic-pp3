@@ -27,7 +27,9 @@ The user can choose between:
 **End of Game**
 At the end of the cycle of questions for the five mysterious concepts, the user exits the game by typing **"e."**
 
-## Possible new options and further project´\*s development
+![Prototyp - Algorithm](/assets/images/algorithm.png)
+
+## Further project´\*s development
 
 #### Timer
 - The user has a limited time to provide an answer to each of the offered clues. The remaining time is displayed through a countdown in the terminal.
