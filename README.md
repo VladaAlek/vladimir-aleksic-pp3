@@ -27,6 +27,10 @@ The user can choose between:
 **End of Game**
 At the end of the cycle of questions for the five mysterious concepts, the user exits the game by typing **"e."**
 
+## Visual elements
+in several ocasions the emoticons have been used
+source code: David Gray: https://www.youtube.com/watch?v=qwAFL1597eM&t=23215s
+
 ![Prototyp - Algorithm](/assets/images/algorithm.png)
 
 ## Further project´\*s development
@@ -47,6 +51,22 @@ At the end of the cycle of questions for the five mysterious concepts, the user 
 
 #### Game Stages
 - Our project comprises five distinct games. Keep the user informed with a notification indicating the current game out of the five, such as "Game 3 of 5."
+
+## Software and learning materials used
+
+-[Markdown - editor](https://markdown-editor.github.io/ "Markdown - editor") used for the creation of the Readme.md file
+
+- [Python Checker](https://www.pythonchecker.com/ "Python Checker") used to style the code according to the [PEP 8](http:/https://peps.python.org/pep-0008// "PEP 8") standards
+
+- PowerPoint
+
+- 
+
+
+
+## Product Testing
+## Debuging 
+## Deployment
 
 
 
